@@ -19,9 +19,9 @@ To get started using X-Plane Connect, do the following.
 1. Purchase and install X-Plane 9, 10 or 11.
 2. Download the `XPlaneConnect.zip` file from the latest release on the [releases](https://github.com/nasa/XPlaneConnect/releases) page.
 3. Copy the contents of the .zip archive to the plugin directory (`[X-Plane Directory]/Resources/plugins/`)
-4. Write some code using one of the clients to manipulate X-Plane data.
+4. Run MATLAB Example code to drop the airplane to any position.
 
-Each client is located in a top-level directory of the repository named for the
+MATLAB Example is located in a top-level directory of the repository named for the
 client's language. The client directories generally include a `src` folder
 containing the client source code, and an `Examples` folder containing sample
 code demonstrating how to use the client.
